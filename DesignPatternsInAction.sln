@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsInAction.Deco
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsInAction.Adapter", "src\Structural\DesignPatternsInAction.Adapter\DesignPatternsInAction.Adapter.csproj", "{6A58C3C8-481B-4904-B45E-3BD7BBD6C61A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsInAction.Bridge", "src\Structural\DesignPatternsInAction.Bridge\DesignPatternsInAction.Bridge.csproj", "{073BB55E-1B17-497D-A58A-BCD9DC6EFF9B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{6A58C3C8-481B-4904-B45E-3BD7BBD6C61A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A58C3C8-481B-4904-B45E-3BD7BBD6C61A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A58C3C8-481B-4904-B45E-3BD7BBD6C61A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{073BB55E-1B17-497D-A58A-BCD9DC6EFF9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{073BB55E-1B17-497D-A58A-BCD9DC6EFF9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{073BB55E-1B17-497D-A58A-BCD9DC6EFF9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{073BB55E-1B17-497D-A58A-BCD9DC6EFF9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -71,6 +77,7 @@ Global
 		{7CE1DE5F-9764-4BDC-92F6-1163324BC6D1} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{EC6C209E-3659-40E1-97D9-F467FE9EF492} = {7CE1DE5F-9764-4BDC-92F6-1163324BC6D1}
 		{6A58C3C8-481B-4904-B45E-3BD7BBD6C61A} = {7CE1DE5F-9764-4BDC-92F6-1163324BC6D1}
+		{073BB55E-1B17-497D-A58A-BCD9DC6EFF9B} = {7CE1DE5F-9764-4BDC-92F6-1163324BC6D1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3F5BB89B-946B-4042-BFB8-8A3064582FD9}
