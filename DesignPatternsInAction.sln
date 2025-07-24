@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsInAction.Fact
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsInAction.AbstractFactory", "src\Creational\DesignPatternsInAction.AbstractFactory\DesignPatternsInAction.AbstractFactory.csproj", "{D0C256F5-DCBC-4EA9-BEF5-27ACE29B5BD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsInAction.Builder", "DesignPatternsInAction.Builder\DesignPatternsInAction.Builder.csproj", "{5D446F4F-EEE9-4D58-9320-6015D4AB9F0B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsInAction.Builder", "src\Creational\DesignPatternsInAction.Builder\DesignPatternsInAction.Builder.csproj", "{5D446F4F-EEE9-4D58-9320-6015D4AB9F0B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
